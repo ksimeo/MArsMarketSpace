@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/MArsMarketAdmin/src/main/java/com/ksimeo/arsu/admin/controllers/AdminController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MArsMarketAdmin/src/main/java/com/ksimeo/arsu/admin/controllers/AdminListController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MArsMarketAdmin/src/main/java/com/ksimeo/arsu/admin/controllers/CreateTypeController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MArsMarketAdmin/src/main/java/com/ksimeo/arsu/admin/controllers/LogInController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MArsMarketAdmin/src/main/java/com/ksimeo/arsu/admin/controllers/ProdController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MArsMarketAdmin/src/main/java/com/ksimeo/arsu/admin/controllers/UserEditController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MArsMarketAdmin/src/main/java/com/ksimeo/arsu/admin/filters/LogInFilter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MArsMarketAdmin/src/main/java/com/ksimeo/arsu/admin/services/GroupServiceMock.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MArsMarketAdmin/src/main/java/com/ksimeo/arsu/admin/services/IGroupService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MArsMarketAdmin/src/main/java/com/ksimeo/arsu/admin/services/OrderServiceMock.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MArsMarketAdmin/src/main/java/com/ksimeo/arsu/admin/services/TypeServiceMock.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MArsMarketAdmin/src/main/java/com/ksimeo/arsu/admin/services/UserService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MArsMarketAdmin/src/main/java/com/ksimeo/arsu/admin/services/UserServiceMock.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MArsMarketAdmin/src/main/webapp/index.jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MArsMarketRest/src/main/java/com/ksimeo/arsu/rest/dao/BasketDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MArsMarketRest/src/main/java/com/ksimeo/arsu/rest/dao/BasketDaoMock.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MArsMarketRest/src/test/com/ksimeo/arsu/rest/controllers/BasketControllerTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MArsMarketViewer" charset="UTF-8" />
+  </component>
+</project>

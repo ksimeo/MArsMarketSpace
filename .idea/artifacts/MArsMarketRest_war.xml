@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MArsMarketRest:war">
+    <output-path>$PROJECT_DIR$/MArsMarketRest/target</output-path>
+    <root id="archive" name="WMRest.war">
+      <element id="artifact" artifact-name="MArsMarketRest:war exploded" />
+    </root>
+  </artifact>
+</component>

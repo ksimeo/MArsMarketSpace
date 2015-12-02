@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WM-Core:war">
+    <output-path>$PROJECT_DIR$/WM-Core/target</output-path>
+    <root id="archive" name="com.ksimeo.arsu.core.war">
+      <element id="artifact" artifact-name="WM-Core:war exploded" />
+    </root>
+  </artifact>
+</component>

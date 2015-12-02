@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MArsMarket.iml" filepath="$PROJECT_DIR$/MArsMarket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MArsMarketAdmin/MArsMarketAdmin.iml" filepath="$PROJECT_DIR$/MArsMarketAdmin/MArsMarketAdmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MArsMarketRest/MArsMarketRest.iml" filepath="$PROJECT_DIR$/MArsMarketRest/MArsMarketRest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MArsMarketViewer/MArsMarketViewer.iml" filepath="$PROJECT_DIR$/MArsMarketViewer/MArsMarketViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MArsMarketCore/WM_Core.iml" filepath="$PROJECT_DIR$/MArsMarketCore/WM_Core.iml" />
+    </modules>
+  </component>
+</project>
